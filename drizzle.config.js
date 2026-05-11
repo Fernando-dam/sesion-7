@@ -1,5 +1,5 @@
 export default {
-  schema: './db/schema.js',
+  schema: ['./auth-schema.ts'], // ← Solo el schema de Better Auth
   out: './drizzle',
   dialect: 'sqlite',
   dbCredentials: {

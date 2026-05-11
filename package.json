@@ -8,6 +8,7 @@
     "start": "next start"
   },
   "dependencies": {
+    "better-auth": "^1.6.10",
     "better-sqlite3": "^12.9.0",
     "drizzle-orm": "^0.45.2",
     "next": "16.2.4",
